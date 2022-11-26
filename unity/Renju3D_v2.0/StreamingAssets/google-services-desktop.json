@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032359861852",
+    "firebase_url": "https://henrys-firebase-db.firebaseio.com",
+    "project_id": "henrys-firebase-db",
+    "storage_bucket": "henrys-firebase-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032359861852:android:50b66770c65e6cb0365099",
+        "android_client_info": {
+          "package_name": "com.henrysun18.Renju3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032359861852-tdefgqf98orkuvf4biat4rr6f9c2ncq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8KvnN1OSF260d5T__WDYkFd70U8JB_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032359861852-tdefgqf98orkuvf4biat4rr6f9c2ncq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+"companyName": "Henry Sun",
+"productName": "Renju 3D",
+"dataUrl": "Renju3D_v1.3(offline).data.unityweb",
+"asmCodeUrl": "Renju3D_v1.3(offline).asm.code.unityweb",
+"asmMemoryUrl": "Renju3D_v1.3(offline).asm.memory.unityweb",
+"asmFrameworkUrl": "Renju3D_v1.3(offline).asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
